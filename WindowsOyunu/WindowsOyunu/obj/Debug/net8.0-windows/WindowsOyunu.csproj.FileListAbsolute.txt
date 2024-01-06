@@ -1,0 +1,17 @@
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\bin\Debug\net8.0-windows\WindowsOyunu.exe
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\bin\Debug\net8.0-windows\WindowsOyunu.deps.json
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\bin\Debug\net8.0-windows\WindowsOyunu.runtimeconfig.json
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\bin\Debug\net8.0-windows\WindowsOyunu.dll
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\bin\Debug\net8.0-windows\WindowsOyunu.pdb
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.Form1.resources
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.Properties.Resources.resources
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.csproj.GenerateResource.cache
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.AssemblyInfoInputs.cache
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.AssemblyInfo.cs
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.dll
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\refint\WindowsOyunu.dll
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.pdb
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\WindowsOyunu.genruntimeconfig.cache
+C:\Users\ismet\source\repos\WindowsOyunu\WindowsOyunu\obj\Debug\net8.0-windows\ref\WindowsOyunu.dll
